@@ -289,6 +289,12 @@ ul li i {
 
 
 }
+@media (max-width:600px) {
+    #rightside {
+        display: none;
+    }
+
+}
 
 
 /* about us file css is here  */
